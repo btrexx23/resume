@@ -18,6 +18,7 @@ balsam.adam@gmail.com
   CSS best practices based on SMACSS.
 * Established company policies for Drupal application hosting environments
   and documented build steps for custom servers.
+* Wrote several Drupal modules integrating Drupal with external APIs.
 
 ### Sole Proprietor
 #### Balsam Design | 2005 - 2009
@@ -56,4 +57,16 @@ balsam.adam@gmail.com
 * Attended Drupalcon Boston and Chicago.
 * Active participant on Stack Exchanges (primarily Drupal Answers) and Drupal.org.
 * Book Learning (Agile Software Craftsmanship, SMACSS, Cracking Drupal, ...).
+
+#### Profiles
+
+##### Drupal Answers | http://drupal.stackexchange.com/users/11462/adam-balsam
+
+* Stack Exchange site for Drupal related Questions and Answers.
+* Consistently ranked in the top 100 users yearly, monthly and all-time.
+
+##### Drupal.org | https://drupal.org/user/223087
+
+* Active member for nearly 6 years.
+* Contribute directly to drupal core and several contributed modules.
 
