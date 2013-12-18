@@ -41,3 +41,19 @@ balsam.adam@gmail.com
 
 * Provided Company and Battalion level support for tactical communications.
 
+## Professional Development
+
+#### Information Science Coursework
+##### Northeastern University | 2003 - 2005
+
+* Object Oriented Programming/Java
+* Programming Logic
+* Systems Analysis and Design Methods
+
+#### Web Development/Programming
+##### Various
+
+* Attended Drupalcon Boston and Chicago.
+* Active participant on Stack Exchanges (primarily Drupal Answers) and Drupal.org.
+* Book Learning (Agile Software Craftsmanship, SMACSS, Cracking Drupal, ...).
+
