@@ -7,8 +7,8 @@ balsam.adam@gmail.com
 
 ## Work Experience
 
-#### Senior Web Developer
-##### Brunello Creative | 2009 - Present
+### Senior Web Developer
+#### Brunello Creative | 2009 - Present
 
 * Developed, themed, and contributed to dozens of enterprise-class Drupal
   projects.
@@ -19,8 +19,8 @@ balsam.adam@gmail.com
 * Established company policies for Drupal application hosting environments
   and documented build steps for custom servers.
 
-#### Sole Proprietor
-##### Balsam Design | 2005 - 2009
+### Sole Proprietor
+#### Balsam Design | 2005 - 2009
 
 * Consulted numerous Boston area startups and small businesses on their web
   presence.
@@ -40,3 +40,4 @@ balsam.adam@gmail.com
 #### US Army | 1996 - 2000
 
 * Provided Company and Battalion level support for tactical communications.
+
