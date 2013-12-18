@@ -23,13 +23,13 @@ balsam.adam@gmail.com
 ##### Balsam Design | 2005 - 2009
 
 * Consulted numerous Boston area startups and small businesses on their web
-  presense.
+  presence.
 * Designed, developed and themed several Drupal applications from the ground
   up.
 * Contracted with larger agencies as a PHP and Drupal subject matter expert and
   developer.
 
-### Senion Technical Trainer
+### Senior Technical Trainer
 #### General Dynamics C4 Systems | 2000 - 2005
 
 * Created and delivered technical training material based on engineering
@@ -40,4 +40,3 @@ balsam.adam@gmail.com
 #### US Army | 1996 - 2000
 
 * Provided Company and Battalion level support for tactical communications.
-
