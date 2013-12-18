@@ -1,8 +1,8 @@
 # Adam Balsam
 
-162 Commercial Street
-Boston, MA 02109
-balsam.adam@gmail.com
+162 Commercial Street  
+Boston, MA 02109  
+balsam.adam@gmail.com  
 617.378.5105
 
 ## Work Experience
